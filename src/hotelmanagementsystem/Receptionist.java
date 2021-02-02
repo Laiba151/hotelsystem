@@ -104,6 +104,7 @@ public class Receptionist extends javax.swing.JFrame {
         // TODO add your handling code here:
         try{
             
+            
             Class.forName("com.mysql.jdbc.Driver");
             Connection Conn = DriverManager.getConnection("jdbc:mysql://localhost:3306/hotelsystem1");
             
