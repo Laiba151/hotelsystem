@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package hotelmanagementsystem;
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 /**
