@@ -120,7 +120,6 @@ public class Receptionist extends javax.swing.JFrame {
                 String InTiming= rs.getString("InTiming");
                 String OutTiming= rs.getString("OutTiming");
                 
-                
                 String tbData[] = {ID,Name,Phoneno,Address,Roomno,InTiming,OutTiming};
                 DefaultTableModel tblModel = (DefaultTableModel)jTable1.getModel();
                 
