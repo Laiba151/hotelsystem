@@ -16,7 +16,6 @@ import javax.swing.JOptionPane;
  * @author Laiba
  */
 public class Manager extends javax.swing.JFrame {
-
     /**
      * Creates new form Manager
      */

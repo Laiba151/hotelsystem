@@ -7,7 +7,6 @@ package hotelmanagementsystem;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
-
 /**
  *
  * @author Laiba
